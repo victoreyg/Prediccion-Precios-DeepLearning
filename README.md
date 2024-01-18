@@ -2,7 +2,7 @@
 
 Este repositorio tiene por objeto **mostrar el preprocesado y modelado con Deep Learning** para un problema de predicción/clasificación de precios. La estructura del repositorio es sencilla, un solo script, con objeto de mostrar de un vistazo rápido el desarrollo del modelo.  
 
-El problema a resolver es la **predicción del precio (rango) de alquiler de un alojamiento de Airbnb a partir de características del propio alojamiento y de las experiencias (valoraciones) de los usuarios con el mismo**.
+El problema a resolver es la **predicción del precio (rango) de alquiler de un alojamiento de Airbnb a partir de características del propio alojamiento y de las experiencias (valoraciones) de los usuarios**.
 
 ## Bases de datos
 
